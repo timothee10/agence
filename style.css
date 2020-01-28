@@ -714,7 +714,7 @@ p {
 }
 
 .focus:focus{
-    background-color: #FFF;
+    background-color: rgb(122, 122, 122);
 }
 
 h2 {
