@@ -749,7 +749,7 @@ h4 {
 }
 
 .black {
-    color: rgb(29, 29, 29)!important;
+    color: rgb(0, 0, 0)!important;
 }
 
 .portfolio-thumb {
@@ -811,12 +811,12 @@ h4 {
 
 .btn-atomic-tangerine-black {
     background: #F3976C;
-    color: rgb(48, 48, 48)!important;
+    color: rgb(0, 0, 0)!important;
 }
 
 .btn-atomic-tangerine-black:hover {
     background: #c27956!important;
-    color: rgb(48, 48, 48)!important;
+    color: rgb(0, 0, 0)!important;
 }
 
 .btn-atomic-tangerine-black:focus {
